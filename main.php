@@ -1,3 +1,4 @@
+<?php
 
     $redirect_uri = '...';
     $client_id = '...';
