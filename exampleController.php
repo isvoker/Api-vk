@@ -1,4 +1,4 @@
-
+<?php
         
             $ProductsOptions = array(
                 'category_id' => Request::getVar('category', 'numeric'),
